@@ -36,6 +36,8 @@ The primary objectives of this dashboard are to:
 
 > *(Replace with your dashboard screenshot)*
 
+## Dashboard
+
 <img src="Images/Dashboard.png" width="1000">
 
 The dashboard presents all major KPIs together with sales trends, store analysis, product analysis, calendar filtering, and heatmaps on a single page.
